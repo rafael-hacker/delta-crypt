@@ -126,7 +126,7 @@ No Password Recovery: The encryption is mathematically strong. If you lose your 
 Unique Ciphertexts: Encrypting the same file twice with the same password will produce two entirely different output files due to the random salt and nonce generation. This is a feature, not a bug.
 Educational & Personal Use: While built with production-grade cryptographic primitives, this tool is provided "as is". Always verify your backups before deleting original files.
 
-##🙏 Acknowledgments
+## 🙏 Acknowledgments
 libsodium by Frank Denis: For providing the most robust and easy-to-use cryptographic library available.
 CLI11: For the best command-line parsing experience in modern C++.
 
