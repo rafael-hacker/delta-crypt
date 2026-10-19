@@ -64,7 +64,7 @@ To build `delta-crypt`, you only need a standard development environment:
 git clone https://github.com/your-username/delta-crypt.git
 cd delta-crypt
 
-cmake -B build ; cmake --build build ; sudo cmake --install build
+./install.sh
 ```
 
 ## 🚀 Usage
